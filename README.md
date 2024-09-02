@@ -19,7 +19,7 @@ Installation
 
    - Clone the repository:
 ```
-git clone https://github.com/yourusername/magicport.git
+git clone https://github.com/blackmagic2023/magicport.git
 cd magicport
 ```
   - Compile the source code:
